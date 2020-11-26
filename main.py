@@ -363,7 +363,6 @@ def show_rule():
           "\nThe goal of the game is to move the queen to the winning field (the lower left corner)."
           "\nWhoever moves the queen to this field, wins the game.")
     input("--Press 'Enter' to go back to the main menu.\n")
-    #main_menu()
 
 
 # Transit the 'a1' format input into the coordinate format
